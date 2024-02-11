@@ -1,10 +1,3 @@
-// -------------------------------------------
-// Dylan Goodwin
-// We are calculating user input 
-// 	then displaying an output
-// 		like a receipt for a trip.
-// -------------------------------------------
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
